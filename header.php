@@ -62,15 +62,17 @@ foreach ($cart as $item) {
 				<div class="row">
 					<div class="col-md-4 col-sm-4 col-7 col-lg-2">
 						<div class="logo">
-							<a href="index.html">
-								<img src="images/logo/logo.png" alt="logo images">
+							<a href="index.php">
+								<h3 style="color: white;">
+									Book Shop
+								</h3>
 							</a>
 						</div>
 					</div>
 					<div class="col-lg-8 d-none d-lg-block">
 						<nav class="mainmenu__nav">
 							<ul class="meninmenu d-flex justify-content-start">
-								<li class="drop with--one--item"><a href="index.html">Home</a></li>
+								<li class="drop with--one--item"><a href="index.php">Home</a></li>
 								<li class="drop"><a href="#">Shop</a>
 									<div class="megamenu mega03">
 										<ul class="item item03">
@@ -80,100 +82,100 @@ foreach ($cart as $item) {
 										</ul>
 										<ul class="item item03">
 											<li class="title">Shop Page</li>
-											<li><a href="my-account.html">My Account</a></li>
-											<li><a href="cart.html">Cart Page</a></li>
-											<li><a href="checkout.html">Checkout Page</a></li>
-											<li><a href="wishlist.html">Wishlist Page</a></li>
-											<li><a href="error404.html">404 Page</a></li>
-											<li><a href="faq.html">Faq Page</a></li>
+											<li><a href="my-account.php">My Account</a></li>
+											<li><a href="cart.php">Cart Page</a></li>
+											<li><a href="checkout.php">Checkout Page</a></li>
+											<li><a href="wishlist.php">Wishlist Page</a></li>
+											<li><a href="error404.php">404 Page</a></li>
+											<li><a href="faq.php">Faq Page</a></li>
 										</ul>
 										<ul class="item item03">
 											<li class="title">Bargain Books</li>
-											<li><a href="shop-grid.html">Bargain Bestsellers</a></li>
-											<li><a href="shop-grid.html">Activity Kits</a></li>
-											<li><a href="shop-grid.html">B&N Classics</a></li>
-											<li><a href="shop-grid.html">Books Under $5</a></li>
-											<li><a href="shop-grid.html">Bargain Books</a></li>
+											<li><a href="shop-grid.php">Bargain Bestsellers</a></li>
+											<li><a href="shop-grid.php">Activity Kits</a></li>
+											<li><a href="shop-grid.php">B&N Classics</a></li>
+											<li><a href="shop-grid.php">Books Under $5</a></li>
+											<li><a href="shop-grid.php">Bargain Books</a></li>
 										</ul>
 									</div>
 								</li>
-								<li class="drop"><a href="shop-grid.html">Books</a>
+								<li class="drop"><a href="shop-grid.php">Books</a>
 									<div class="megamenu mega03">
 										<ul class="item item03">
 											<li class="title">Categories</li>
-											<li><a href="shop-grid.html">Biography </a></li>
-											<li><a href="shop-grid.html">Business </a></li>
-											<li><a href="shop-grid.html">Cookbooks </a></li>
-											<li><a href="shop-grid.html">Health & Fitness </a></li>
-											<li><a href="shop-grid.html">History </a></li>
+											<li><a href="shop-grid.php">Biography </a></li>
+											<li><a href="shop-grid.php">Business </a></li>
+											<li><a href="shop-grid.php">Cookbooks </a></li>
+											<li><a href="shop-grid.php">Health & Fitness </a></li>
+											<li><a href="shop-grid.php">History </a></li>
 										</ul>
 										<ul class="item item03">
 											<li class="title">Customer Favourite</li>
-											<li><a href="shop-grid.html">Mystery</a></li>
-											<li><a href="shop-grid.html">Religion & Inspiration</a></li>
-											<li><a href="shop-grid.html">Romance</a></li>
-											<li><a href="shop-grid.html">Fiction/Fantasy</a></li>
-											<li><a href="shop-grid.html">Sleeveless</a></li>
+											<li><a href="shop-grid.php">Mystery</a></li>
+											<li><a href="shop-grid.php">Religion & Inspiration</a></li>
+											<li><a href="shop-grid.php">Romance</a></li>
+											<li><a href="shop-grid.php">Fiction/Fantasy</a></li>
+											<li><a href="shop-grid.php">Sleeveless</a></li>
 										</ul>
 										<ul class="item item03">
 											<li class="title">Collections</li>
-											<li><a href="shop-grid.html">Science </a></li>
-											<li><a href="shop-grid.html">Fiction/Fantasy</a></li>
-											<li><a href="shop-grid.html">Self-Improvemen</a></li>
-											<li><a href="shop-grid.html">Home & Garden</a></li>
-											<li><a href="shop-grid.html">Humor Books</a></li>
+											<li><a href="shop-grid.php">Science </a></li>
+											<li><a href="shop-grid.php">Fiction/Fantasy</a></li>
+											<li><a href="shop-grid.php">Self-Improvemen</a></li>
+											<li><a href="shop-grid.php">Home & Garden</a></li>
+											<li><a href="shop-grid.php">Humor Books</a></li>
 										</ul>
 									</div>
 								</li>
-								<li class="drop"><a href="shop-grid.html">Kids</a>
+								<li class="drop"><a href="shop-grid.php">Kids</a>
 									<div class="megamenu mega02">
 										<ul class="item item02">
 											<li class="title">Top Collections</li>
-											<li><a href="shop-grid.html">American Girl</a></li>
-											<li><a href="shop-grid.html">Diary Wimpy Kid</a></li>
-											<li><a href="shop-grid.html">Finding Dory</a></li>
-											<li><a href="shop-grid.html">Harry Potter</a></li>
-											<li><a href="shop-grid.html">Land of Stories</a></li>
+											<li><a href="shop-grid.php">American Girl</a></li>
+											<li><a href="shop-grid.php">Diary Wimpy Kid</a></li>
+											<li><a href="shop-grid.php">Finding Dory</a></li>
+											<li><a href="shop-grid.php">Harry Potter</a></li>
+											<li><a href="shop-grid.php">Land of Stories</a></li>
 										</ul>
 										<ul class="item item02">
 											<li class="title">More For Kids</li>
-											<li><a href="shop-grid.html">B&N Educators</a></li>
-											<li><a href="shop-grid.html">B&N Kids' Club</a></li>
-											<li><a href="shop-grid.html">Kids' Music</a></li>
-											<li><a href="shop-grid.html">Toys & Games</a></li>
-											<li><a href="shop-grid.html">Hoodies</a></li>
+											<li><a href="shop-grid.php">B&N Educators</a></li>
+											<li><a href="shop-grid.php">B&N Kids' Club</a></li>
+											<li><a href="shop-grid.php">Kids' Music</a></li>
+											<li><a href="shop-grid.php">Toys & Games</a></li>
+											<li><a href="shop-grid.php">Hoodies</a></li>
 										</ul>
 									</div>
 								</li>
 								<li class="drop"><a href="#">Pages</a>
 									<div class="megamenu dropdown">
 										<ul class="item item01">
-											<li><a href="about.html">About Page</a></li>
-											<li class="label2"><a href="portfolio.html">Portfolio</a>
+											<li><a href="about.php">About Page</a></li>
+											<li class="label2"><a href="portfolio.php">Portfolio</a>
 												<ul>
-													<li><a href="portfolio.html">Portfolio</a></li>
-													<li><a href="portfolio-details.html">Portfolio Details</a></li>
+													<li><a href="portfolio.php">Portfolio</a></li>
+													<li><a href="portfolio-details.php">Portfolio Details</a></li>
 												</ul>
 											</li>
-											<li><a href="my-account.html">My Account</a></li>
-											<li><a href="cart.html">Cart Page</a></li>
-											<li><a href="checkout.html">Checkout Page</a></li>
-											<li><a href="wishlist.html">Wishlist Page</a></li>
-											<li><a href="error404.html">404 Page</a></li>
-											<li><a href="faq.html">Faq Page</a></li>
-											<li><a href="team.html">Team Page</a></li>
+											<li><a href="my-account.php">My Account</a></li>
+											<li><a href="cart.php">Cart Page</a></li>
+											<li><a href="checkout.php">Checkout Page</a></li>
+											<li><a href="wishlist.php">Wishlist Page</a></li>
+											<li><a href="error404.php">404 Page</a></li>
+											<li><a href="faq.php">Faq Page</a></li>
+											<li><a href="team.php">Team Page</a></li>
 										</ul>
 									</div>
 								</li>
-								<li class="drop"><a href="blog.html">Blog</a>
+								<li class="drop"><a href="blog.php">Blog</a>
 									<div class="megamenu dropdown">
 										<ul class="item item01">
-											<li><a href="blog.html">Blog Page</a></li>
-											<li><a href="blog-details.html">Blog Details</a></li>
+											<li><a href="blog.php">Blog Page</a></li>
+											<li><a href="blog-details.php">Blog Details</a></li>
 										</ul>
 									</div>
 								</li>
-								<li><a href="contact.html">Contact</a></li>
+								<li><a href="contact.php">Contact</a></li>
 							</ul>
 						</nav>
 					</div>
@@ -196,7 +198,7 @@ foreach ($cart as $item) {
 											<span><?php echo $sum ?></span>
 										</div>
 										<div class="mini_action checkout">
-											<a class="checkout__btn" href="cart.html">Go to Checkout</a>
+											<a class="checkout__btn" href="cart.php">Go to Checkout</a>
 										</div>
 										<div class="single__items">
 											<div class="miniproduct">
@@ -205,10 +207,10 @@ foreach ($cart as $item) {
 													?>
 													<div class="item01 d-flex mt--20">
 														<div class="thumb">
-															<a href="product-details.html"><img src="<?php echo $item->image ?>" alt="product images"></a>
+															<a href="product-details.php"><img src="<?php echo $item->image ?>" alt="product images"></a>
 														</div>
 														<div class="content">
-															<h6><a href="product-details.html"><?php echo $item->title ?></a></h6>
+															<h6><a href="product-details.php"><?php echo $item->title ?></a></h6>
 															<span class="prize"><?php echo $item->price ?>đ</span>
 															<div class="product_prize d-flex justify-content-between">
 																<span class="qun">Qty: <?php echo $item->quantity ?></span>
@@ -224,7 +226,7 @@ foreach ($cart as $item) {
 											</div>
 										</div>
 										<div class="mini_action cart">
-											<a class="cart__btn" href="cart.html">View and edit cart</a>
+											<a class="cart__btn" href="cart.php">View and edit cart</a>
 										</div>
 									</div>
 								</div>
@@ -306,38 +308,38 @@ foreach ($cart as $item) {
 					<div class="col-lg-12 d-none">
 						<nav class="mobilemenu__nav">
 							<ul class="meninmenu">
-								<li><a href="index.html">Home</a></li>
+								<li><a href="index.php">Home</a></li>
 								<li><a href="#">Pages</a>
 									<ul>
-										<li><a href="about.html">About Page</a></li>
-										<li><a href="portfolio.html">Portfolio</a>
+										<li><a href="about.php">About Page</a></li>
+										<li><a href="portfolio.php">Portfolio</a>
 											<ul>
-												<li><a href="portfolio.html">Portfolio</a></li>
-												<li><a href="portfolio-details.html">Portfolio Details</a></li>
+												<li><a href="portfolio.php">Portfolio</a></li>
+												<li><a href="portfolio-details.php">Portfolio Details</a></li>
 											</ul>
 										</li>
-										<li><a href="my-account.html">My Account</a></li>
-										<li><a href="cart.html">Cart Page</a></li>
-										<li><a href="checkout.html">Checkout Page</a></li>
-										<li><a href="wishlist.html">Wishlist Page</a></li>
-										<li><a href="error404.html">404 Page</a></li>
-										<li><a href="faq.html">Faq Page</a></li>
-										<li><a href="team.html">Team Page</a></li>
+										<li><a href="my-account.php">My Account</a></li>
+										<li><a href="cart.php">Cart Page</a></li>
+										<li><a href="checkout.php">Checkout Page</a></li>
+										<li><a href="wishlist.php">Wishlist Page</a></li>
+										<li><a href="error404.php">404 Page</a></li>
+										<li><a href="faq.php">Faq Page</a></li>
+										<li><a href="team.php">Team Page</a></li>
 									</ul>
 								</li>
-								<li><a href="shop-grid.html">Shop</a>
+								<li><a href="shop-grid.php">Shop</a>
 									<ul>
-										<li><a href="shop-grid.html">Shop Grid</a></li>
-										<li><a href="single-product.html">Single Product</a></li>
+										<li><a href="shop-grid.php">Shop Grid</a></li>
+										<li><a href="single-product.php">Single Product</a></li>
 									</ul>
 								</li>
-								<li><a href="blog.html">Blog</a>
+								<li><a href="blog.php">Blog</a>
 									<ul>
-										<li><a href="blog.html">Blog Page</a></li>
-										<li><a href="blog-details.html">Blog Details</a></li>
+										<li><a href="blog.php">Blog Page</a></li>
+										<li><a href="blog-details.php">Blog Details</a></li>
 									</ul>
 								</li>
-								<li><a href="contact.html">Contact</a></li>
+								<li><a href="contact.php">Contact</a></li>
 							</ul>
 						</nav>
 					</div>
@@ -365,14 +367,14 @@ foreach ($cart as $item) {
 		</div>
 		<!-- End Search Popup -->
 		<!-- Start Bradcaump area -->
-		<div class="ht__bradcaump__area bg-image--3">
+		<div class="ht__bradcaump__area bg-dark">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
 						<div class="bradcaump__inner text-center">
 							<h2 class="bradcaump-title">Shopping Cart</h2>
 							<nav class="bradcaump-content">
-								<a class="breadcrumb_item" href="index.html">Home</a>
+								<a class="breadcrumb_item" href="index.php">Home</a>
 								<span class="brd-separetor">/</span>
 								<span class="breadcrumb_item active">Shopping Cart</span>
 							</nav>
